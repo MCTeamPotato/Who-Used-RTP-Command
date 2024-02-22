@@ -1,0 +1,7 @@
+{
+  "whousedrtpcommand.used.command.back" : " 使用了back指令",
+  "whousedrtpcommand.used.command.spawn" : " 使用了spawn指令",
+  "whousedrtpcommand.used.command.rtp" : " 使用了rtp指令",
+  "whousedrtpcommand.used.command.teleport_last" : " 使用了teleport_last指令",
+  "whousedrtpcommand.used.command.tpx" : " 使用了tpx指令"
+}

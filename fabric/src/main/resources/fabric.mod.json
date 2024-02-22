@@ -1,0 +1,26 @@
+{
+  "schemaVersion": 1,
+  "id": "whousedrtpcommand",
+  "version": "${version}",
+  "name": "WhoUsedRTPCommand Mod",
+  "description": "WhoUsedRTPCommand Mod!",
+  "authors": [
+    "Awei",
+    "MCTeamPotato"
+  ],
+  "contact": {
+    "homepage": "https://github.com/MCTeamPotato"
+  },
+  "license": "GPLv3",
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "team.teampotato.whousedrtpcommand.fabric.WhoUsedRTPCommandClient"
+    ]
+  },
+  "depends": {
+    "fabric": "*",
+    "minecraft": ">=1.19.2",
+    "architectury": ">=6.5.77"
+  }
+}
